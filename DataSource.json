@@ -1,0 +1,46 @@
+﻿[
+	{
+		"Key": "goldjob数据源",
+		"Value": "Data Source = 192.168.5.242; Initial Catalog = goldjob; Persist Security Info = True; User ID = sa; Password = asdadsd3421assdcfsdv@!23123asdasdad;"
+	},
+	{
+		"Key": "stzpw_art数据源",
+		"Value": "Data Source=192.168.5.242;Initial Catalog=stzpw_art;Persist Security Info=True;User ID=sa;Password=asdadsd3421assdcfsdv@!23123asdasdad;Connect Timeout=360;"
+	},
+	{
+		"Key": "lietou数据源",
+		"Value": "Data Source=192.168.5.242;Initial Catalog=lietou;Persist Security Info=True;User ID=sa;Password=asdadsd3421assdcfsdv@!23123asdasdad;Connect Timeout=360;"
+	},
+	{
+		"Key": "other数据源",
+		"Value": "Data Source=192.168.5.242;Initial Catalog=other;Persist Security Info=True;User ID=sa;Password=asdadsd3421assdcfsdv@!23123asdasdad;Connect Timeout=360;"
+	},
+	{
+		"Key": "warehouse_new数据源",
+		"Value": "Data Source=192.168.5.242;Initial Catalog=warehouse_new;Persist Security Info=True;User ID=sa;Password=asdadsd3421assdcfsdv@!23123asdasdad;Connect Timeout=360;"
+	},
+	{
+		"Key": "Open数据源",
+		"Value": "Data Source=192.168.5.242;Initial Catalog=Open;Persist Security Info=True;User ID=sa;Password=asdadsd3421assdcfsdv@!23123asdasdad;Connect Timeout=360;"
+	},
+	{
+		"Key": "Circle数据源",
+		"Value": "Data Source=192.168.5.242;Initial Catalog=Circle;Persist Security Info=True;User ID=sa;Password=asdadsd3421assdcfsdv@!23123asdasdad;Connect Timeout=360;"
+	},
+	{
+		"Key": "Pengka数据源",
+		"Value": "Data Source=192.168.5.242;Initial Catalog=Pengka;Persist Security Info=True;User ID=sa;Password=asdadsd3421assdcfsdv@!23123asdasdad;Connect Timeout=360;"
+	},
+	{
+		"Key": "ForBigData数据源",
+		"Value": "Data Source=192.168.5.242;Initial Catalog=ForBigData;Persist Security Info=True;User ID=sa;Password=asdadsd3421assdcfsdv@!23123asdasdad;Connect Timeout=360;"
+	},
+	{
+		"Key": "BChat数据源",
+		"Value": "Data Source=192.168.5.242;Initial Catalog=BChat;Persist Security Info=True;User ID=sa;Password=asdadsd3421assdcfsdv@!23123asdasdad;Connect Timeout=360;"
+	},
+	{
+		"Key": "DataAnalyse数据源",
+		"Value": "Data Source=192.168.5.242;Initial Catalog=DataAnalyse;Persist Security Info=True;User ID=sa;Password=asdadsd3421assdcfsdv@!23123asdasdad;Connect Timeout=360;"
+	}
+]
